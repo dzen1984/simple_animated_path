@@ -1,7 +1,7 @@
 name: simple_animated_path
-description: "A new Flutter package project."
+description: "Simple Animated Path - helps to add animation of custom paths"
 version: 0.0.1
-homepage:
+homepage: https://github.com/dzen1984/simple_animated_path
 
 environment:
   sdk: '>=3.4.3 <4.0.0'

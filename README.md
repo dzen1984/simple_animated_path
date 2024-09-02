@@ -4,7 +4,7 @@ A Flutter package that allow to animate custom paths.
 
 ## Example
 
-<img src="//misk/example.gif?raw=true" width="500" alt="">
+<img src="https://github.com/dzen1984/simple_animated_path/blob/main/misc/example.gif?raw=true" width="500" alt="">
 
 ## How to use
 
