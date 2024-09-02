@@ -8,7 +8,7 @@ A Flutter package that allow to animate custom paths.
 
 ## How to use
 
-```code
+```dart
 
 /// create your Path
 final path = Path();

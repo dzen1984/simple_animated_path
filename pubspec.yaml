@@ -1,6 +1,6 @@
 name: simple_animated_path
 description: "Simple Animated Path - helps to add animation of custom paths"
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/dzen1984/simple_animated_path
 
 environment:
